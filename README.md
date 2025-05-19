@@ -1,6 +1,6 @@
-#"An Analysis of Disability Inclusion in Sheltered Workshops"
+# "An Analysis of Disability Inclusion in Sheltered Workshops"
 
-#Types of Disabilities and chatbot support
+# Types of Disabilities and chatbot support
 
 •	Cognitive & Intellectual
 Examples: Learning disabilities, Down syndrome, ASD
@@ -31,7 +31,7 @@ Examples: Multiple sclerosis, cancer, diabetes
 Support: Health reminders; Rest alerts; Fatigue tips
 
 
-#References with Wikipedia or Official Links
+# References with Wikipedia or Official Links
 
 AI and Accessibility: A Framework for Designing Inclusive AI Systems. (2020).
 https://en.wikipedia.org/wiki/Accessibility#Artificial_intelligence
