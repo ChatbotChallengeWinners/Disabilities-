@@ -1,7 +1,7 @@
 # How Disabilities May Influence Work
 
 ## Cognitive & Intellectual Disabilities
-* What it's about: Challenges with learning, memory, or understandinglike with Down syndrome or some people with autism.
+* What it's about: Challenges with learning, memory, or understanding like with Down syndrome or some people with autism.
 * How it affects work: May forget steps or struggle with complex instructions.
 * How staff can help:
 1. Give one instruction at a time
