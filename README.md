@@ -1,59 +1,114 @@
-# "An Analysis of Disability Inclusion in Sheltered Workshops"
+# How Disabilities May Influence Work
 
-# Types of Disabilities and chatbot support
+## Cognitive & Intellectual Disabilities
+* What it's about: Challenges with learning, memory, or understandinglike with Down syndrome or some people with autism.
+* How it affects work: May forget steps or struggle with complex instructions.
+* How staff can help:
+1. Give one instruction at a time
+2.	Use clear language and visuals
+3.	Repeat and reassure as needed
+* How the chatbot can help staff:
+1.	Provide step-by-step task guides
+2.	Offer simple language prompts
+3.	Suggest visual checklists or reminders
+4.	Alert staff if the participant needs help
 
-•	Cognitive & Intellectual
-Examples: Learning disabilities, Down syndrome, ASD
-Support: Step-by-step task guidance; Easy language; Visual aids
-
-•	Physical
-Examples: Cerebral palsy, spinal injury, amputations
-Support: Workspace setup info; Navigation help; Safety alerts
-
-•	Mental Health
-Examples: Depression, anxiety, bipolar disorder
-Support: Emotional support; Stress tips; Crisis guidance
-
-•	Sensory Impairments
-Examples: Blindness, deafness
-Support: Text-to-speech; Subtitles; Gesture support
-
-•	Autism Spectrum
-Examples: ASD with/without intellectual impairment
-Support: Routine reminders; Predictable instructions; Calm UI
-
-•	Speech/Communication
-Examples: Aphasia, stuttering
-Support: Icons, yes/no buttons; Simplified text
-
-•	Chronic Illnesses
-Examples: Multiple sclerosis, cancer, diabetes
-Support: Health reminders; Rest alerts; Fatigue tips
+## Physical Disabilities
+* What it's about: Difficulty with movement or using certain parts of the body.
+* How it affects work: Might need help moving, reaching, or using tools.
+* How staff can help:
+1.	Ensure accessible spaces
+2.	Assist with tools if needed
+3.	Monitor for discomfort or fatigue
+* How the chatbot can help staff:
+1.	Provide directions to ramps/lifts
+2.	Notify team if help is needed
+3.	Suggest workstation adjustments
+4.	Recommend tool adaptations
 
 
-# References with Wikipedia or Official Links
+## Mental Health Conditions
+* What it's about: Conditions like anxiety or depression affecting mood or energy.
+* How it affects work: Might feel overwhelmed or have trouble focusing.
+* How staff can help:
+1.	Offer emotional support
+2.	Allow breaks and quiet spaces
+3.	Be encouraging and patient
+* How the chatbot can help staff:
+1.	Suggest calming exercises
+2.	Recommend break areas
+3.	Provide mental health resources
+4.	Detect stress patterns
 
-AI and Accessibility: A Framework for Designing Inclusive AI Systems. (2020).
-https://en.wikipedia.org/wiki/Accessibility#Artificial_intelligence
+## Sensory Impairments
+* What it's about: Difficulty seeing or hearing.
+* How it affects work: May miss spoken instructions or visual cues.
+* How staff can help:
+1.	Use written notes or gestures
+2.	Speak clearly and slowly
+3.	Use large print or audio tools
+* How the chatbot can help staff:
+1.	Convert speech to text or vice versa
+2.	Offer gesture/icon-based communication
+3.	Recommend accessible formats
+4.	Remind to use assistive cues
 
-Human Factors and Assistive Technology: Improving the User Experience. (2019).
-https://en.wikipedia.org/wiki/Human_factors_and_ergonomics
-https://en.wikipedia.org/wiki/Assistive_technology
 
-Chatbots' interaction with users with disabilities: A study on accessibility. (2017).
-https://en.wikipedia.org/wiki/Chatbot
+## Autism Spectrum Disorder (ASD)
+* What it's about: Affects communication and sensory processing.
+* How it affects work: May need routine and calm environments.
+* How staff can help:
+1.	Stick to routines
+2.	Use visual schedules
+3.  Avoid loud changes
+* How the chatbot can help staff:
+1.	Alert to routine steps
+2.	Suggest calming communication
+3.	Provide visual aids
+4.  Log preferred routines
+	
+## Speech & Communication Disabilities
+* What it's about: Difficulty talking or understanding speech.
+* How it affects work: May struggle to ask for help or follow instructions.
+* How staff can help:
+1.	Use icons or pictures
+2.	Allow pointing or typing
+3.	Be patient
+* How the chatbot can help staff:
+1.	Display icons for common responses
+2.	Suggest simple phrases
+3.	Provide communication boards
+4.	Translate input to spoken prompts
 
-Exploring Chatbots for Nonprofits: Enhancing Accessibility and User Experience. (2018).
-https://en.wikipedia.org/wiki/Chatbot#Nonprofit_use
+## Chronic Illnesses
+* What it's about: Long-term conditions like diabetes, MS, or cancer.
+* How it affects work: May cause fatigue or require medical breaks.
+* How staff can help:
+1.	Allow flexible schedules
+2.	Support health needs
+3.	Adjust workload as needed
+* How the chatbot can help staff:
+1.	Remind about rest/medication
+2.	Alert staff to low energy signs
+3.	Suggest flexible plans
+4.	Track symptoms (with consent)
 
-UN Flagship Report on Disability and Development. (2022).
-https://social.desa.un.org/publications/category/Flagship%20Reports
+## References
+1. Disability – Wikipedia: https://en.wikipedia.org/wiki/Disability
+2. Cognitive disability – Wikipedia: https://en.wikipedia.org/wiki/Cognitive_disability
+3. Physical disability – Wikipedia: https://en.wikipedia.org/wiki/Physical_disability
+4. World Health Organization  Disabilities: https://www.who.int/health-topics/disability
+5. Centers for Disease Control and Prevention  Disability and Health: https://www.cdc.gov/ncbddd/disabilityandhealth/index.html
+6. Autism Speaks  What is Autism?: https://www.autismspeaks.org/what-autism
+7. National Institute of Mental Health  Mental Health Information: https://www.nimh.nih.gov/health/topics/index.shtml
+8. National Federation of the Blind  Resources: https://www.nfb.org
+9. American Speech-Language-Hearing Association: https://www.asha.org
+10. Disability Rights UK: https://www.disabilityrightsuk.org
+11. Job Accommodation Network  Workplace Accommodations: https://askjan.org
 
-World Report on Disability. (2011).
-https://www.who.int/publications/i/item/9789241564182
 
-Guidelines for Psychological Practice with People with Disabilities. (2022).
-https://www.apa.org/pi/disability/resources/assessment-disabilities
+
+
 
 
 
