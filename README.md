@@ -11,7 +11,6 @@
 1.	Provide step-by-step task guides
 2.	Offer simple language prompts
 3.	Suggest visual checklists or reminders
-4.	Alert staff if the participant needs help
 
 ## Physical Disabilities
 * What it's about: Difficulty with movement or using certain parts of the body.
@@ -21,10 +20,9 @@
 2.	Assist with tools if needed
 3.	Monitor for discomfort or fatigue
 * How the chatbot can help staff:
-1.	Provide directions to ramps/lifts
-2.	Notify team if help is needed
-3.	Suggest workstation adjustments
-4.	Recommend tool adaptations
+1.	Provide directions to ramps/lift
+2.	Suggest workstation adjustments
+3.	Recommend tool adaptations
 
 
 ## Mental Health Conditions
@@ -65,7 +63,7 @@
 1.	Alert to routine steps
 2.	Suggest calming communication
 3.	Provide visual aids
-4.  Log preferred routines
+4.      Log preferred routines
 	
 ## Speech & Communication Disabilities
 * What it's about: Difficulty talking or understanding speech.
@@ -89,9 +87,8 @@
 3.	Adjust workload as needed
 * How the chatbot can help staff:
 1.	Remind about rest/medication
-2.	Alert staff to low energy signs
-3.	Suggest flexible plans
-4.	Track symptoms (with consent)
+2.	Suggest flexible plans
+3.	Track symptoms (with consent)
 
 ## References
 1. Disability – Wikipedia: https://en.wikipedia.org/wiki/Disability
