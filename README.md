@@ -63,7 +63,6 @@
 1.	Alert to routine steps
 2.	Suggest calming communication
 3.	Provide visual aids
-4.      Log preferred routines
 	
 ## Speech & Communication Disabilities
 * What it's about: Difficulty talking or understanding speech.
